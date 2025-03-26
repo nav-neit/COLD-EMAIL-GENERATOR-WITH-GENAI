@@ -1,0 +1,21 @@
+Problem Statement - 
+	Tech Service companies want to sent cold emails to clients.
+	Clients Job Portal -> Based on JD - > Tech Service sends cold email to client for outsource work.
+	The Email should be relevant to the job post.
+
+Tech Architecture - 
+	1. Extract text from career page using Lang Chain Framework.
+	2. LLM (llama 3.1) extract JD info (roles, skills) into a json format.
+	3. From chroma DB we fetch portfolio links based on jd.
+	4. WE feed the portfolio link  + Json to LLM
+	5. LLM will finally create a nice cold email processing this input.
+LLAMA - 
+	Free Open Source LLM
+	We can download and run this LLM locally.
+	We can use tools such as OLLAMA to pull and run the LLAMA models.
+	We can Use GroqCloud for running LLAMA on cloud
+		Inference is very fast.
+		It uses LPU (Language Processing Unit)
+
+	
+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
