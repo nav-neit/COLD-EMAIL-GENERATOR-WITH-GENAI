@@ -15,7 +15,4 @@ LLAMA -
 	We can use tools such as OLLAMA to pull and run the LLAMA models.
 	We can Use GroqCloud for running LLAMA on cloud
 		Inference is very fast.
-		It uses LPU (Language Processing Unit)
-
-	
-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
+		It uses LPU (Language Processing Unit) so its very fast.
