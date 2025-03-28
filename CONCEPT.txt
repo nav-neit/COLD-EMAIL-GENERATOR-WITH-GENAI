@@ -16,3 +16,9 @@ LLAMA -
 	We can Use GroqCloud for running LLAMA on cloud
 		Inference is very fast.
 		It uses LPU (Language Processing Unit) so its very fast.
+GroqCloud - 
+	We need to get api key for the model we prefer.
+chromaDb(opensource vector  DB, other sources - pinecone) - 
+	We need to setup a vector database
+Langchain-
+	Its a framework that helps us use LLM'S to build apps.
