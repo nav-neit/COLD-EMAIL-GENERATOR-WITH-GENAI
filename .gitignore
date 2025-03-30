@@ -1,2 +1,11 @@
 venv/
 app/.env
+app/__pycache__/
+
+
+*.log
+*.sqlite3
+
+.DS_Store
+.idea/
+.vscode/
